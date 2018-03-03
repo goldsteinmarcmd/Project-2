@@ -1,0 +1,334 @@
+﻿County,State (Code),Deaths,Population,Crude Rate Per 100000
+Dallas County, AL (01047),19,"40,008",Unreliable
+Elmore County, AL (01051),13,"81,799",Unreliable
+Etowah County, AL (01055),12,"102,564",Unreliable
+Jefferson County, AL (01073),140,"659,521",21.2
+Lee County, AL (01081),21,"158,991",13.2
+Madison County, AL (01089),25,"356,967",7
+Mobile County, AL (01097),80,"414,836",19.3
+Montgomery County, AL (01101),40,"226,349",17.7
+Morgan County, AL (01103),10,"119,012",Unreliable
+Russell County, AL (01113),10,"58,172",Unreliable
+Tuscaloosa County, AL (01125),16,"206,102",Unreliable
+Anchorage Borough, AK (02020),31,"298,192",10.4
+Apache County, AZ (04001),10,"73,112",Unreliable
+Maricopa County, AZ (04013),262,"4,242,997",6.2
+Mohave County, AZ (04015),18,"205,249",Unreliable
+Navajo County, AZ (04017),11,"110,026",Unreliable
+Pima County, AZ (04019),58,"1,016,206",5.7
+Pinal County, AZ (04021),21,"418,540",5
+Yuma County, AZ (04027),10,"205,631",Unreliable
+Crittenden County, AR (05035),16,"49,235",Unreliable
+Jefferson County, AR (05069),13,"70,016",Unreliable
+Mississippi County, AR (05093),13,"42,835",Unreliable
+Pulaski County, AR (05119),64,"393,250",16.3
+Alameda County, CA (06001),120,"1,647,704",7.3
+Contra Costa County, CA (06013),69,"1,135,127",6.1
+Fresno County, CA (06019),70,"979,915",7.1
+Humboldt County, CA (06023),15,"136,646",Unreliable
+Kern County, CA (06029),89,"884,788",10.1
+Kings County, CA (06031),15,"149,785",Unreliable
+Los Angeles County, CA (06037),639,"10,137,915",6.3
+Merced County, CA (06047),13,"268,672",Unreliable
+Monterey County, CA (06053),56,"435,232",12.9
+Orange County, CA (06059),74,"3,172,532",2.3
+Riverside County, CA (06065),97,"2,387,741",4.1
+Sacramento County, CA (06067),99,"1,514,460",6.5
+San Bernardino County, CA (06071),145,"2,140,096",6.8
+San Diego County, CA (06073),107,"3,317,749",3.2
+San Francisco County, CA (06075),46,"870,887",5.3
+San Joaquin County, CA (06077),73,"733,709",9.9
+San Luis Obispo County, CA (06079),10,"282,887",Unreliable
+San Mateo County, CA (06081),19,"764,797",Unreliable
+Santa Barbara County, CA (06083),16,"446,170",Unreliable
+Santa Clara County, CA (06085),56,"1,919,402",2.9
+Shasta County, CA (06089),12,"179,631",Unreliable
+Solano County, CA (06095),27,"440,207",6.1
+Sonoma County, CA (06097),13,"503,070",Unreliable
+Stanislaus County, CA (06099),27,"541,560",5
+Sutter County, CA (06101),11,"96,651",Unreliable
+Tulare County, CA (06107),32,"460,437",6.9
+Ventura County, CA (06111),31,"849,738",3.6
+Adams County, CO (08001),28,"498,187",5.6
+Arapahoe County, CO (08005),35,"637,068",5.5
+Denver County, CO (08031),49,"693,060",7.1
+El Paso County, CO (08041),41,"688,284",6
+Jefferson County, CO (08059),15,"571,837",Unreliable
+Mesa County, CO (08077),11,"150,083",Unreliable
+Weld County, CO (08123),10,"294,932",Unreliable
+Fairfield County, CT (09001),19,"944,177",Unreliable
+Hartford County, CT (09003),23,"892,389",2.6
+New Haven County, CT (09009),34,"856,875",4
+Kent County, DE (10001),11,"174,827",Unreliable
+New Castle County, DE (10003),45,"556,987",8.1
+District of Columbia, DC (11001),127,"681,170",18.6
+Brevard County, FL (12009),30,"579,130",5.2
+Broward County, FL (12011),104,"1,909,632",5.4
+Clay County, FL (12019),11,"208,311",Unreliable
+Duval County, FL (12031),110,"926,255",11.9
+Escambia County, FL (12033),23,"315,187",7.3
+Hillsborough County, FL (12057),84,"1,376,238",6.1
+Lake County, FL (12069),13,"335,396",Unreliable
+Lee County, FL (12071),47,"722,336",6.5
+Leon County, FL (12073),12,"287,822",Unreliable
+Manatee County, FL (12081),25,"375,888",6.7
+Marion County, FL (12083),29,"349,020",8.3
+Miami-Dade County, FL (12086),223,"2,712,945",8.2
+Okaloosa County, FL (12091),14,"201,170",Unreliable
+Orange County, FL (12095),118,"1,314,367",9
+Osceola County, FL (12097),19,"336,015",Unreliable
+Palm Beach County, FL (12099),89,"1,443,810",6.2
+Pasco County, FL (12101),14,"512,368",Unreliable
+Pinellas County, FL (12103),54,"960,730",5.6
+Polk County, FL (12105),46,"666,149",6.9
+St. Lucie County, FL (12111),15,"306,507",Unreliable
+Sarasota County, FL (12115),12,"412,569",Unreliable
+Seminole County, FL (12117),28,"455,479",6.1
+Volusia County, FL (12127),26,"529,364",4.9
+Bibb County, GA (13021),14,"152,760",Unreliable
+Chatham County, GA (13051),52,"289,082",18
+Clayton County, GA (13063),42,"279,462",15
+Cobb County, GA (13067),31,"748,150",4.1
+Colquitt County, GA (13071),10,"45,708",Unreliable
+DeKalb County, GA (13089),98,"740,321",13.2
+Dougherty County, GA (13095),15,"90,017",Unreliable
+Fulton County, GA (13121),154,"1,023,336",15
+Gwinnett County, GA (13135),40,"907,135",4.4
+Hall County, GA (13139),11,"196,637",Unreliable
+Muscogee County, GA (13215),26,"197,485",13.2
+Newton County, GA (13217),10,"106,999",Unreliable
+Richmond County, GA (13245),26,"201,647",12.9
+Hawaii County, HI (15001),11,"198,449",Unreliable
+Honolulu County, HI (15003),21,"992,605",2.1
+Champaign County, IL (17019),12,"208,419",Unreliable
+Cook County, IL (17031),896,"5,203,499",17.2
+Kane County, IL (17089),18,"531,715",Unreliable
+Kankakee County, IL (17091),10,"110,008",Unreliable
+Lake County, IL (17097),21,"703,047",3
+Madison County, IL (17119),11,"265,759",Unreliable
+Peoria County, IL (17143),13,"185,006",Unreliable
+Rock Island County, IL (17161),10,"144,784",Unreliable
+St. Clair County, IL (17163),38,"262,759",14.5
+Sangamon County, IL (17167),10,"197,499",Unreliable
+Will County, IL (17197),27,"689,529",3.9
+Winnebago County, IL (17201),28,"285,873",9.8
+Allen County, IN (18003),49,"370,404",13.2
+Delaware County, IN (18035),10,"115,603",Unreliable
+Elkhart County, IN (18039),17,"203,781",Unreliable
+Lake County, IN (18089),85,"485,846",17.5
+Marion County, IN (18097),174,"941,229",18.5
+St. Joseph County, IN (18141),20,"269,141",7.4
+Polk County, IA (19153),22,"474,045",4.6
+Sedgwick County, KS (20173),34,"511,995",6.6
+Shawnee County, KS (20177),18,"178,146",Unreliable
+Wyandotte County, KS (20209),45,"163,831",27.5
+Fayette County, KY (21067),26,"318,449",8.2
+Jefferson County, KY (21111),119,"765,352",15.5
+Acadia Parish, LA (22001),13,"62,645",Unreliable
+Caddo Parish, LA (22017),48,"248,851",19.3
+Calcasieu Parish, LA (22019),14,"200,601",Unreliable
+East Baton Rouge Parish, LA (22033),78,"447,037",17.4
+Iberia Parish, LA (22045),10,"73,273",Unreliable
+Jefferson Parish, LA (22051),68,"436,523",15.6
+Lafayette Parish, LA (22055),22,"241,398",9.1
+Livingston Parish, LA (22063),10,"140,138",Unreliable
+Orleans Parish, LA (22071),148,"391,495",37.8
+Ouachita Parish, LA (22073),19,"156,983",Unreliable
+Rapides Parish, LA (22079),13,"132,424",Unreliable
+St. John the Baptist Parish, LA (22095),14,"43,631",Unreliable
+St. Landry Parish, LA (22097),14,"83,883",Unreliable
+St. Martin Parish, LA (22099),10,"54,007",Unreliable
+Tangipahoa Parish, LA (22105),20,"130,710",15.3
+Terrebonne Parish, LA (22109),14,"113,220",Unreliable
+Anne Arundel County, MD (24003),25,"568,346",4.4
+Baltimore County, MD (24005),74,"831,026",8.9
+Harford County, MD (24025),11,"251,032",Unreliable
+Montgomery County, MD (24031),16,"1,043,863",Unreliable
+Prince George's County, MD (24033),122,"908,049",13.4
+Baltimore city, MD (24510),273,"614,664",44.4
+Bristol County, MA (25005),10,"558,324",Unreliable
+Essex County, MA (25009),17,"779,018",Unreliable
+Hampden County, MA (25013),20,"468,467",4.3
+Middlesex County, MA (25017),15,"1,589,774",Unreliable
+Norfolk County, MA (25021),11,"697,181",Unreliable
+Suffolk County, MA (25025),40,"784,230",5.1
+Worcester County, MA (25027),11,"819,589",Unreliable
+Calhoun County, MI (26025),12,"134,386",Unreliable
+Genesee County, MI (26049),54,"408,615",13.2
+Ingham County, MI (26065),15,"288,051",Unreliable
+Kalamazoo County, MI (26077),11,"261,654",Unreliable
+Kent County, MI (26081),20,"642,173",3.1
+Macomb County, MI (26099),37,"867,730",4.3
+Muskegon County, MI (26121),11,"173,408",Unreliable
+Oakland County, MI (26125),47,"1,243,970",3.8
+Saginaw County, MI (26145),20,"192,326",10.4
+Wayne County, MI (26163),327,"1,749,366",18.7
+Dakota County, MN (27037),11,"417,486",Unreliable
+Hennepin County, MN (27053),51,"1,232,483",4.1
+Ramsey County, MN (27123),12,"540,649",Unreliable
+DeSoto County, MS (28033),12,"175,611",Unreliable
+Forrest County, MS (28035),10,"75,979",Unreliable
+Harrison County, MS (28047),18,"203,234",Unreliable
+Hinds County, MS (28049),62,"241,229",25.7
+Lauderdale County, MS (28075),11,"77,755",Unreliable
+Lee County, MS (28081),12,"85,381",Unreliable
+Leflore County, MS (28083),12,"29,856",Unreliable
+Sunflower County, MS (28133),10,"26,407",Unreliable
+Washington County, MS (28151),14,"47,231",Unreliable
+Jackson County, MO (29095),134,"691,801",19.4
+Jefferson County, MO (29099),10,"224,226",Unreliable
+St. Charles County, MO (29183),15,"390,918",Unreliable
+St. Louis County, MO (29189),124,"998,581",12.4
+St. Louis city, MO (29510),139,"311,404",44.6
+Douglas County, NE (31055),29,"554,995",5.2
+Lancaster County, NE (31109),13,"309,637",Unreliable
+Clark County, NV (32003),182,"2,155,664",8.4
+Washoe County, NV (32031),17,"453,616",Unreliable
+Atlantic County, NJ (34001),21,"270,991",7.7
+Burlington County, NJ (34005),21,"449,284",4.7
+Camden County, NJ (34007),54,"510,150",10.6
+Cumberland County, NJ (34011),12,"153,797",Unreliable
+Essex County, NJ (34013),115,"796,914",14.4
+Gloucester County, NJ (34015),12,"292,330",Unreliable
+Hudson County, NJ (34017),33,"677,983",4.9
+Mercer County, NJ (34021),27,"371,023",7.3
+Middlesex County, NJ (34023),13,"837,073",Unreliable
+Passaic County, NJ (34031),19,"507,945",Unreliable
+Union County, NJ (34039),23,"555,630",4.1
+Bernalillo County, NM (35001),70,"676,953",10.3
+Chaves County, NM (35005),12,"65,282",Unreliable
+McKinley County, NM (35031),13,"74,923",Unreliable
+San Juan County, NM (35045),14,"115,079",Unreliable
+Bronx County, NY (36005),105,"1,455,720",7.2
+Erie County, NY (36029),56,"921,046",6.1
+Kings County, NY (36047),145,"2,629,150",5.5
+Monroe County, NY (36055),52,"747,727",7
+Nassau County, NY (36059),26,"1,361,500",1.9
+New York County, NY (36061),42,"1,643,734",2.6
+Niagara County, NY (36063),12,"211,758",Unreliable
+Onondaga County, NY (36067),35,"466,194",7.5
+Orange County, NY (36071),14,"379,210",Unreliable
+Queens County, NY (36081),55,"2,333,054",2.4
+Richmond County, NY (36085),17,"476,015",Unreliable
+Suffolk County, NY (36103),39,"1,492,583",2.6
+Westchester County, NY (36119),23,"974,542",2.4
+Alamance County, NC (37001),13,"159,688",Unreliable
+Buncombe County, NC (37021),12,"256,088",Unreliable
+Cumberland County, NC (37051),41,"327,127",12.5
+Durham County, NC (37063),43,"306,212",14
+Forsyth County, NC (37067),26,"371,511",7
+Gaston County, NC (37071),19,"216,965",Unreliable
+Guilford County, NC (37081),44,"521,330",8.4
+Harnett County, NC (37085),11,"130,881",Unreliable
+Iredell County, NC (37097),10,"172,916",Unreliable
+Mecklenburg County, NC (37119),84,"1,054,835",8
+New Hanover County, NC (37129),13,"223,483",Unreliable
+Onslow County, NC (37133),11,"187,136",Unreliable
+Pitt County, NC (37147),16,"177,220",Unreliable
+Robeson County, NC (37155),40,"133,235",30
+Rockingham County, NC (37157),10,"91,393",Unreliable
+Rowan County, NC (37159),19,"139,933",Unreliable
+Union County, NC (37179),10,"226,606",Unreliable
+Vance County, NC (37181),10,"44,244",Unreliable
+Wake County, NC (37183),34,"1,046,791",3.2
+Wayne County, NC (37191),17,"124,150",Unreliable
+Wilson County, NC (37195),10,"81,661",Unreliable
+Butler County, OH (39017),20,"377,537",5.3
+Cuyahoga County, OH (39035),176,"1,249,352",14.1
+Franklin County, OH (39049),112,"1,264,518",8.9
+Hamilton County, OH (39061),73,"809,099",9
+Lorain County, OH (39093),20,"306,365",6.5
+Lucas County, OH (39095),38,"432,488",8.8
+Mahoning County, OH (39099),16,"230,008",Unreliable
+Montgomery County, OH (39113),67,"531,239",12.6
+Stark County, OH (39151),17,"373,612",Unreliable
+Summit County, OH (39153),30,"540,300",5.6
+Trumbull County, OH (39155),16,"201,825",Unreliable
+Oklahoma County, OK (40109),93,"782,970",11.9
+Tulsa County, OK (40143),81,"642,940",12.6
+Multnomah County, OR (41051),31,"799,766",3.9
+Washington County, OR (41067),11,"582,779",Unreliable
+Allegheny County, PA (42003),106,"1,225,365",8.7
+Beaver County, PA (42007),10,"167,429",Unreliable
+Berks County, PA (42011),16,"414,812",Unreliable
+Bucks County, PA (42017),13,"626,399",Unreliable
+Dauphin County, PA (42043),16,"273,707",Unreliable
+Delaware County, PA (42045),53,"563,402",9.4
+Erie County, PA (42049),12,"276,207",Unreliable
+Fayette County, PA (42051),10,"132,733",Unreliable
+Lancaster County, PA (42071),10,"538,500",Unreliable
+Lehigh County, PA (42077),13,"363,147",Unreliable
+Lycoming County, PA (42081),12,"115,248",Unreliable
+Montgomery County, PA (42091),15,"821,725",Unreliable
+Philadelphia County, PA (42101),288,"1,567,872",18.4
+Westmoreland County, PA (42129),11,"355,458",Unreliable
+York County, PA (42133),19,"443,744",Unreliable
+Providence County, RI (44007),21,"633,673",3.3
+Aiken County, SC (45003),15,"167,458",Unreliable
+Anderson County, SC (45007),24,"196,569",12.2
+Beaufort County, SC (45013),13,"183,149",Unreliable
+Berkeley County, SC (45015),17,"210,898",Unreliable
+Charleston County, SC (45019),51,"396,484",12.9
+Colleton County, SC (45029),10,"37,923",Unreliable
+Dorchester County, SC (45035),11,"153,773",Unreliable
+Greenville County, SC (45045),35,"498,766",7
+Horry County, SC (45051),30,"322,342",9.3
+Lexington County, SC (45063),12,"286,196",Unreliable
+Richland County, SC (45079),46,"409,549",11.2
+Spartanburg County, SC (45083),19,"301,463",Unreliable
+York County, SC (45091),13,"258,526",Unreliable
+Davidson County, TN (47037),83,"684,410",12.1
+Hamilton County, TN (47065),41,"357,738",11.5
+Hardeman County, TN (47069),10,"25,435",Unreliable
+Knox County, TN (47093),23,"456,132",5
+Montgomery County, TN (47125),17,"195,734",Unreliable
+Rutherford County, TN (47149),10,"308,251",Unreliable
+Shelby County, TN (47157),230,"934,603",24.6
+Sumner County, TN (47165),10,"180,063",Unreliable
+Bastrop County, TX (48021),14,"82,733",Unreliable
+Bell County, TX (48027),25,"340,411",7.3
+Bexar County, TX (48029),189,"1,928,680",9.8
+Brazoria County, TX (48039),14,"354,195",Unreliable
+Cameron County, TX (48061),15,"422,135",Unreliable
+Collin County, TX (48085),28,"939,585",3
+Dallas County, TX (48113),217,"2,574,984",8.4
+El Paso County, TX (48141),26,"837,918",3.1
+Fort Bend County, TX (48157),40,"741,237",5.4
+Galveston County, TX (48167),22,"329,431",6.7
+Gregg County, TX (48183),17,"123,745",Unreliable
+Harris County, TX (48201),435,"4,589,928",9.5
+Hidalgo County, TX (48215),25,"849,843",2.9
+Jefferson County, TX (48245),33,"254,679",13
+Lubbock County, TX (48303),12,"303,137",Unreliable
+Montgomery County, TX (48339),16,"556,203",Unreliable
+Nueces County, TX (48355),25,"361,350",6.9
+Potter County, TX (48375),14,"120,832",Unreliable
+Smith County, TX (48423),10,"225,290",Unreliable
+Tarrant County, TX (48439),112,"2,016,872",5.6
+Travis County, TX (48453),46,"1,199,323",3.8
+Webb County, TX (48479),14,"271,193",Unreliable
+Salt Lake County, UT (49035),43,"1,121,354",3.8
+Chesterfield County, VA (51041),18,"339,009",Unreliable
+Fairfax County, VA (51059),15,"1,138,652",Unreliable
+Henrico County, VA (51087),21,"326,501",6.4
+Prince William County, VA (51153),24,"455,210",5.3
+Chesapeake city, VA (51550),19,"237,940",Unreliable
+Danville city, VA (51590),16,"41,898",Unreliable
+Hampton city, VA (51650),20,"135,410",14.8
+Newport News city, VA (51700),33,"181,825",18.1
+Norfolk city, VA (51710),35,"245,115",14.3
+Petersburg city, VA (51730),10,"31,882",Unreliable
+Portsmouth city, VA (51740),17,"95,252",Unreliable
+Richmond city, VA (51760),48,"223,170",21.5
+Roanoke city, VA (51770),10,"99,660",Unreliable
+Virginia Beach city, VA (51810),19,"452,602",Unreliable
+Clark County, WA (53011),13,"467,018",Unreliable
+King County, WA (53033),53,"2,149,970",2.5
+Pierce County, WA (53053),36,"861,312",4.2
+Snohomish County, WA (53061),21,"787,620",2.7
+Spokane County, WA (53063),18,"499,072",Unreliable
+Yakima County, WA (53077),19,"249,636",Unreliable
+Cabell County, WV (54011),12,"95,987",Unreliable
+Kanawha County, WV (54039),17,"186,241",Unreliable
+Dane County, WI (55025),10,"531,273",Unreliable
+Milwaukee County, WI (55079),164,"951,448",17.2
