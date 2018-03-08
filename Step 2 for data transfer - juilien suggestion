@@ -1,0 +1,12 @@
+import json
+with open('mapjson.json') as fil:
+    data = json.load(fil)
+    
+for row in data['features']:
+    if row['properties']['julien'] = 3
+
+with open('newjson.json', 'w') as fil:
+    json.dump(data, fil)
+    
+  with open('newjson.json', 'w') as fil:
+    json.dump(data, fil)
