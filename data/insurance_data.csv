@@ -1,0 +1,82 @@
+Location,Employer,Non_Group,Medicaid,Medicare,OtherPublic,Uninsured,Total
+United States,157381500,21884400,62303400,44550200,6192200,28051900,320372000
+Alabama,2263800,262400,997000,761200,128800,420800,4834100
+Alaska,324400,20300,145400,68200,55600,96900,710800
+Arizona,3010700,377000,1468400,1028000,172500,833700,6890200
+Arkansas,1290900,252900,618600,490000,67500,225500,2945300
+California,18116200,3195400,9853800,4436000,556100,3030800,39188300
+Colorado,2872600,370000,855800,692400,190100,528400,5509200
+Connecticut,1926900,200700,711200,483300,N/A,218600,3570300
+Delaware,445500,36200,211900,152000,18600,84100,948200
+District of Columbia,351800,48100,166000,76000,N/A,35400,685800
+Florida,8602700,2061400,3294400,3602900,518200,2465800,20545300
+Georgia,5038000,695300,1708000,1213800,360000,1265600,10280800
+Hawaii,771400,47500,207900,210200,80400,75000,1392400
+Idaho,811900,164600,293500,229500,32500,147100,1679000
+Illinois,6491400,965000,2321100,1761300,137600,931100,12607400
+Indiana,3379100,4.00E+05,1279300,922500,94300,428100,6503200
+Iowa,1690700,191800,571300,459800,30200,162300,3106200
+Kansas,1506300,246300,412200,380200,N/A,241900,2865000
+Kentucky,1948800,428000,928000,706300,N/A,271400,4388200
+Louisiana,1910100,281500,1136600,621100,N/A,484500,4578500
+Maine,645400,65600,280700,217100,19000,93900,1321600
+Maryland,3210600,443000,926300,827000,153800,372100,5932800
+Massachusetts,3666500,392300,1473500,797400,70800,379100,6779600
+Michigan,5046700,456400,2168900,1522400,72500,626300,9893200
+Minnesota,3010000,444500,787500,821100,N/A,321200,5436600
+Mississippi,1233800,159300,696400,418600,88100,351900,2948100
+Missouri,3021200,467500,871500,989100,53000,486300,5888700
+Montana,448700,72100,222700,183700,35200,72700,1035500
+Nebraska,1039100,140200,244500,280900,41300,130100,1876100
+Nevada,1458200,152000,515500,454700,107200,255600,2943200
+New Hampshire,761800,73700,165300,209300,21700,85800,1318100
+New Jersey,4838400,545300,1492700,1240700,N/A,696200,8851500
+New Mexico,740300,102800,641300,281200,49500,230000,2045000
+New York,9767500,1294200,4621700,2517200,183400,1094400,19482300
+North Carolina,4570100,863500,1787900,1478000,281800,1087000,10068300
+North Dakota,415000,58500,91300,100200,26700,57800,749500
+Ohio,5847600,627500,2506900,1753800,95000,638000,11468700
+Oklahoma,1885900,192400,688200,622800,120000,411800,3921100
+Oregon,1910600,286000,1009900,650500,54800,218400,4130200
+Pennsylvania,6663200,721300,2379500,2040900,151500,601500,12557900
+Rhode Island,535000,83700,214100,156800,N/A,50500,1054300
+South Carolina,2257300,324900,916600,766800,194600,448200,4908400
+South Dakota,416500,82100,126900,143200,19700,67000,855400
+Tennessee,3072000,370700,1337600,985500,N/A,744800,6674100
+Texas,13607200,1662100,4513800,3083900,565100,4245000,27677200
+Utah,1854700,203700,308100,306300,N/A,373900,3079700
+Vermont,292700,55700,124800,100600,14600,33900,622500
+Virginia,4472900,418700,948100,1127600,393900,813900,8175000
+Washington,3593400,498500,1608200,961800,121700,513800,7297300
+West Virginia,788500,64000,470900,332600,24900,133100,1814100
+Wisconsin,3245000,280600,910100,805700,106400,415000,5766100
+Wyoming,312200,37400,72100,78000,16400,55500,571700
+,,,,,,,
+Notes,,,,,,,
+The majority of our health coverage topics are based on analysis of the Census Bureau’s March Supplement to the Current Population Survey (the CPS Annual Social and Economic Supplement or ASEC) by the Kaiser Program on Medicaid and the Uninsured. The CPS supplement is the primary source of annual health insurance coverage information in the United States.,,,,,,,
+,,,,,,,
+"In this analysis, income (mostly categorized as a percent of the federal poverty level) is aggregated by Census-defined family units. Analyzing income by family unit captures income available to a group of people who are likely sharing resources. However, family units may not be the appropriate measure for capturing eligibility for health insurance.  Eligibility for health insurance is more accurately estimated using ""health insurance units,"" which may be counted differently for different types of insurance (such as Medicaid or employer coverage).",,,,,,,
+,,,,,,,
+Data exclude a small number of people with private coverage of an unknown source.  Data may not sum to totals due to rounding and the exclusion of these people.,,,,,,,
+,,,,,,,
+Sources,,,,,,,
+"Kaiser Family Foundation estimates based on the Census Bureau's March Current Population Survey (CPS: Annual Social and Economic Supplements), 2014-2017.",,,,,,,
+,,,,,,,
+Definitions,,,,,,,
+"The ASEC asks respondents about their health insurance coverage throughout the previous calendar year. Respondents may report having more than one type of coverage. In this analysis, individuals are sorted into only one category of insurance coverage using the following hierarchy:",,,,,,,
+,,,,,,,
+"*Medicaid*: Includes those covered by Medicaid, the Children’s Health Insurance Program (CHIP), and those who have both Medicaid and another type of coverage, such as dual eligibles who are also covered by Medicare.",,,,,,,
+,,,,,,,
+"*Medicare*: Includes those covered by Medicare, Medicare Advantage, and those who have Medicare and another type of non-Medicaid coverage where Medicare is the primary payer. Excludes those with Medicare Part A coverage only and those covered by Medicare and Medicaid (dual eligibles).",,,,,,,
+,,,,,,,
+*Employer*: Includes those covered by employer-sponsored coverage either through their own job or as a dependent in the same household.,,,,,,,
+,,,,,,,
+*Other Public*: Includes those covered under the military or Veterans Administration.,,,,,,,
+,,,,,,,
+*Non-Group*: Includes individuals and families that purchased or are covered as a dependent by non-group insurance.,,,,,,,
+,,,,,,,
+*Uninsured*: Includes those without health insurance and those who have coverage under the Indian Health Service only.,,,,,,,
+,,,,,,,
+"For example, a person having Medicaid coverage in the first half of the year but employer-based coverage in the last months of the year would be categorized as having Medicaid coverage in this analysis.",,,,,,,
+,,,,,,,
+*N/A*: Estimates with relative standard errors greater than 30% are not provided.,,,,,,,

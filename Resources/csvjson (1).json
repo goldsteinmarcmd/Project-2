@@ -1,0 +1,812 @@
+[
+  {
+    "Location": "United States",
+    "Employer": 157381500,
+    "Non-Group": 21884400,
+    "Medicaid": 62303400,
+    "Medicare": 44550200,
+    "Other Public": 6192200,
+    "Uninsured": 28051900,
+    "Total": 320372000
+  },
+  {
+    "Location": "Alabama",
+    "Employer": 2263800,
+    "Non-Group": 262400,
+    "Medicaid": 997000,
+    "Medicare": 761200,
+    "Other Public": 128800,
+    "Uninsured": 420800,
+    "Total": 4834100
+  },
+  {
+    "Location": "Alaska",
+    "Employer": 324400,
+    "Non-Group": 20300,
+    "Medicaid": 145400,
+    "Medicare": 68200,
+    "Other Public": 55600,
+    "Uninsured": 96900,
+    "Total": 710800
+  },
+  {
+    "Location": "Arizona",
+    "Employer": 3010700,
+    "Non-Group": 377000,
+    "Medicaid": 1468400,
+    "Medicare": 1028000,
+    "Other Public": 172500,
+    "Uninsured": 833700,
+    "Total": 6890200
+  },
+  {
+    "Location": "Arkansas",
+    "Employer": 1290900,
+    "Non-Group": 252900,
+    "Medicaid": 618600,
+    "Medicare": 490000,
+    "Other Public": 67500,
+    "Uninsured": 225500,
+    "Total": 2945300
+  },
+  {
+    "Location": "California",
+    "Employer": 18116200,
+    "Non-Group": 3195400,
+    "Medicaid": 9853800,
+    "Medicare": 4436000,
+    "Other Public": 556100,
+    "Uninsured": 3030800,
+    "Total": 39188300
+  },
+  {
+    "Location": "Colorado",
+    "Employer": 2872600,
+    "Non-Group": 370000,
+    "Medicaid": 855800,
+    "Medicare": 692400,
+    "Other Public": 190100,
+    "Uninsured": 528400,
+    "Total": 5509200
+  },
+  {
+    "Location": "Connecticut",
+    "Employer": 1926900,
+    "Non-Group": 200700,
+    "Medicaid": 711200,
+    "Medicare": 483300,
+    "Other Public": "N/A",
+    "Uninsured": 218600,
+    "Total": 3570300
+  },
+  {
+    "Location": "Delaware",
+    "Employer": 445500,
+    "Non-Group": 36200,
+    "Medicaid": 211900,
+    "Medicare": 152000,
+    "Other Public": 18600,
+    "Uninsured": 84100,
+    "Total": 948200
+  },
+  {
+    "Location": "District of Columbia",
+    "Employer": 351800,
+    "Non-Group": 48100,
+    "Medicaid": 166000,
+    "Medicare": 76000,
+    "Other Public": "N/A",
+    "Uninsured": 35400,
+    "Total": 685800
+  },
+  {
+    "Location": "Florida",
+    "Employer": 8602700,
+    "Non-Group": 2061400,
+    "Medicaid": 3294400,
+    "Medicare": 3602900,
+    "Other Public": 518200,
+    "Uninsured": 2465800,
+    "Total": 20545300
+  },
+  {
+    "Location": "Georgia",
+    "Employer": 5038000,
+    "Non-Group": 695300,
+    "Medicaid": 1708000,
+    "Medicare": 1213800,
+    "Other Public": 360000,
+    "Uninsured": 1265600,
+    "Total": 10280800
+  },
+  {
+    "Location": "Hawaii",
+    "Employer": 771400,
+    "Non-Group": 47500,
+    "Medicaid": 207900,
+    "Medicare": 210200,
+    "Other Public": 80400,
+    "Uninsured": 75000,
+    "Total": 1392400
+  },
+  {
+    "Location": "Idaho",
+    "Employer": 811900,
+    "Non-Group": 164600,
+    "Medicaid": 293500,
+    "Medicare": 229500,
+    "Other Public": 32500,
+    "Uninsured": 147100,
+    "Total": 1679000
+  },
+  {
+    "Location": "Illinois",
+    "Employer": 6491400,
+    "Non-Group": 965000,
+    "Medicaid": 2321100,
+    "Medicare": 1761300,
+    "Other Public": 137600,
+    "Uninsured": 931100,
+    "Total": 12607400
+  },
+  {
+    "Location": "Indiana",
+    "Employer": 3379100,
+    "Non-Group": 400000,
+    "Medicaid": 1279300,
+    "Medicare": 922500,
+    "Other Public": 94300,
+    "Uninsured": 428100,
+    "Total": 6503200
+  },
+  {
+    "Location": "Iowa",
+    "Employer": 1690700,
+    "Non-Group": 191800,
+    "Medicaid": 571300,
+    "Medicare": 459800,
+    "Other Public": 30200,
+    "Uninsured": 162300,
+    "Total": 3106200
+  },
+  {
+    "Location": "Kansas",
+    "Employer": 1506300,
+    "Non-Group": 246300,
+    "Medicaid": 412200,
+    "Medicare": 380200,
+    "Other Public": "N/A",
+    "Uninsured": 241900,
+    "Total": 2865000
+  },
+  {
+    "Location": "Kentucky",
+    "Employer": 1948800,
+    "Non-Group": 428000,
+    "Medicaid": 928000,
+    "Medicare": 706300,
+    "Other Public": "N/A",
+    "Uninsured": 271400,
+    "Total": 4388200
+  },
+  {
+    "Location": "Louisiana",
+    "Employer": 1910100,
+    "Non-Group": 281500,
+    "Medicaid": 1136600,
+    "Medicare": 621100,
+    "Other Public": "N/A",
+    "Uninsured": 484500,
+    "Total": 4578500
+  },
+  {
+    "Location": "Maine",
+    "Employer": 645400,
+    "Non-Group": 65600,
+    "Medicaid": 280700,
+    "Medicare": 217100,
+    "Other Public": 19000,
+    "Uninsured": 93900,
+    "Total": 1321600
+  },
+  {
+    "Location": "Maryland",
+    "Employer": 3210600,
+    "Non-Group": 443000,
+    "Medicaid": 926300,
+    "Medicare": 827000,
+    "Other Public": 153800,
+    "Uninsured": 372100,
+    "Total": 5932800
+  },
+  {
+    "Location": "Massachusetts",
+    "Employer": 3666500,
+    "Non-Group": 392300,
+    "Medicaid": 1473500,
+    "Medicare": 797400,
+    "Other Public": 70800,
+    "Uninsured": 379100,
+    "Total": 6779600
+  },
+  {
+    "Location": "Michigan",
+    "Employer": 5046700,
+    "Non-Group": 456400,
+    "Medicaid": 2168900,
+    "Medicare": 1522400,
+    "Other Public": 72500,
+    "Uninsured": 626300,
+    "Total": 9893200
+  },
+  {
+    "Location": "Minnesota",
+    "Employer": 3010000,
+    "Non-Group": 444500,
+    "Medicaid": 787500,
+    "Medicare": 821100,
+    "Other Public": "N/A",
+    "Uninsured": 321200,
+    "Total": 5436600
+  },
+  {
+    "Location": "Mississippi",
+    "Employer": 1233800,
+    "Non-Group": 159300,
+    "Medicaid": 696400,
+    "Medicare": 418600,
+    "Other Public": 88100,
+    "Uninsured": 351900,
+    "Total": 2948100
+  },
+  {
+    "Location": "Missouri",
+    "Employer": 3021200,
+    "Non-Group": 467500,
+    "Medicaid": 871500,
+    "Medicare": 989100,
+    "Other Public": 53000,
+    "Uninsured": 486300,
+    "Total": 5888700
+  },
+  {
+    "Location": "Montana",
+    "Employer": 448700,
+    "Non-Group": 72100,
+    "Medicaid": 222700,
+    "Medicare": 183700,
+    "Other Public": 35200,
+    "Uninsured": 72700,
+    "Total": 1035500
+  },
+  {
+    "Location": "Nebraska",
+    "Employer": 1039100,
+    "Non-Group": 140200,
+    "Medicaid": 244500,
+    "Medicare": 280900,
+    "Other Public": 41300,
+    "Uninsured": 130100,
+    "Total": 1876100
+  },
+  {
+    "Location": "Nevada",
+    "Employer": 1458200,
+    "Non-Group": 152000,
+    "Medicaid": 515500,
+    "Medicare": 454700,
+    "Other Public": 107200,
+    "Uninsured": 255600,
+    "Total": 2943200
+  },
+  {
+    "Location": "New Hampshire",
+    "Employer": 761800,
+    "Non-Group": 73700,
+    "Medicaid": 165300,
+    "Medicare": 209300,
+    "Other Public": 21700,
+    "Uninsured": 85800,
+    "Total": 1318100
+  },
+  {
+    "Location": "New Jersey",
+    "Employer": 4838400,
+    "Non-Group": 545300,
+    "Medicaid": 1492700,
+    "Medicare": 1240700,
+    "Other Public": "N/A",
+    "Uninsured": 696200,
+    "Total": 8851500
+  },
+  {
+    "Location": "New Mexico",
+    "Employer": 740300,
+    "Non-Group": 102800,
+    "Medicaid": 641300,
+    "Medicare": 281200,
+    "Other Public": 49500,
+    "Uninsured": 230000,
+    "Total": 2045000
+  },
+  {
+    "Location": "New York",
+    "Employer": 9767500,
+    "Non-Group": 1294200,
+    "Medicaid": 4621700,
+    "Medicare": 2517200,
+    "Other Public": 183400,
+    "Uninsured": 1094400,
+    "Total": 19482300
+  },
+  {
+    "Location": "North Carolina",
+    "Employer": 4570100,
+    "Non-Group": 863500,
+    "Medicaid": 1787900,
+    "Medicare": 1478000,
+    "Other Public": 281800,
+    "Uninsured": 1087000,
+    "Total": 10068300
+  },
+  {
+    "Location": "North Dakota",
+    "Employer": 415000,
+    "Non-Group": 58500,
+    "Medicaid": 91300,
+    "Medicare": 100200,
+    "Other Public": 26700,
+    "Uninsured": 57800,
+    "Total": 749500
+  },
+  {
+    "Location": "Ohio",
+    "Employer": 5847600,
+    "Non-Group": 627500,
+    "Medicaid": 2506900,
+    "Medicare": 1753800,
+    "Other Public": 95000,
+    "Uninsured": 638000,
+    "Total": 11468700
+  },
+  {
+    "Location": "Oklahoma",
+    "Employer": 1885900,
+    "Non-Group": 192400,
+    "Medicaid": 688200,
+    "Medicare": 622800,
+    "Other Public": 120000,
+    "Uninsured": 411800,
+    "Total": 3921100
+  },
+  {
+    "Location": "Oregon",
+    "Employer": 1910600,
+    "Non-Group": 286000,
+    "Medicaid": 1009900,
+    "Medicare": 650500,
+    "Other Public": 54800,
+    "Uninsured": 218400,
+    "Total": 4130200
+  },
+  {
+    "Location": "Pennsylvania",
+    "Employer": 6663200,
+    "Non-Group": 721300,
+    "Medicaid": 2379500,
+    "Medicare": 2040900,
+    "Other Public": 151500,
+    "Uninsured": 601500,
+    "Total": 12557900
+  },
+  {
+    "Location": "Rhode Island",
+    "Employer": 535000,
+    "Non-Group": 83700,
+    "Medicaid": 214100,
+    "Medicare": 156800,
+    "Other Public": "N/A",
+    "Uninsured": 50500,
+    "Total": 1054300
+  },
+  {
+    "Location": "South Carolina",
+    "Employer": 2257300,
+    "Non-Group": 324900,
+    "Medicaid": 916600,
+    "Medicare": 766800,
+    "Other Public": 194600,
+    "Uninsured": 448200,
+    "Total": 4908400
+  },
+  {
+    "Location": "South Dakota",
+    "Employer": 416500,
+    "Non-Group": 82100,
+    "Medicaid": 126900,
+    "Medicare": 143200,
+    "Other Public": 19700,
+    "Uninsured": 67000,
+    "Total": 855400
+  },
+  {
+    "Location": "Tennessee",
+    "Employer": 3072000,
+    "Non-Group": 370700,
+    "Medicaid": 1337600,
+    "Medicare": 985500,
+    "Other Public": "N/A",
+    "Uninsured": 744800,
+    "Total": 6674100
+  },
+  {
+    "Location": "Texas",
+    "Employer": 13607200,
+    "Non-Group": 1662100,
+    "Medicaid": 4513800,
+    "Medicare": 3083900,
+    "Other Public": 565100,
+    "Uninsured": 4245000,
+    "Total": 27677200
+  },
+  {
+    "Location": "Utah",
+    "Employer": 1854700,
+    "Non-Group": 203700,
+    "Medicaid": 308100,
+    "Medicare": 306300,
+    "Other Public": "N/A",
+    "Uninsured": 373900,
+    "Total": 3079700
+  },
+  {
+    "Location": "Vermont",
+    "Employer": 292700,
+    "Non-Group": 55700,
+    "Medicaid": 124800,
+    "Medicare": 100600,
+    "Other Public": 14600,
+    "Uninsured": 33900,
+    "Total": 622500
+  },
+  {
+    "Location": "Virginia",
+    "Employer": 4472900,
+    "Non-Group": 418700,
+    "Medicaid": 948100,
+    "Medicare": 1127600,
+    "Other Public": 393900,
+    "Uninsured": 813900,
+    "Total": 8175000
+  },
+  {
+    "Location": "Washington",
+    "Employer": 3593400,
+    "Non-Group": 498500,
+    "Medicaid": 1608200,
+    "Medicare": 961800,
+    "Other Public": 121700,
+    "Uninsured": 513800,
+    "Total": 7297300
+  },
+  {
+    "Location": "West Virginia",
+    "Employer": 788500,
+    "Non-Group": 64000,
+    "Medicaid": 470900,
+    "Medicare": 332600,
+    "Other Public": 24900,
+    "Uninsured": 133100,
+    "Total": 1814100
+  },
+  {
+    "Location": "Wisconsin",
+    "Employer": 3245000,
+    "Non-Group": 280600,
+    "Medicaid": 910100,
+    "Medicare": 805700,
+    "Other Public": 106400,
+    "Uninsured": 415000,
+    "Total": 5766100
+  },
+  {
+    "Location": "Wyoming",
+    "Employer": 312200,
+    "Non-Group": 37400,
+    "Medicaid": 72100,
+    "Medicare": 78000,
+    "Other Public": 16400,
+    "Uninsured": 55500,
+    "Total": 571700
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "Notes",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "The majority of our health coverage topics are based on analysis of the Census Bureau%u2019s March Supplement to the Current Population Survey (the CPS Annual Social and Economic Supplement or ASEC) by the Kaiser Program on Medicaid and the Uninsured. The CPS supplement is the primary source of annual health insurance coverage information in the United States.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "In this analysis, income (mostly categorized as a percent of the federal poverty level) is aggregated by Census-defined family units. Analyzing income by family unit captures income available to a group of people who are likely sharing resources. However, family units may not be the appropriate measure for capturing eligibility for health insurance.  Eligibility for health insurance is more accurately estimated using \"health insurance units,\" which may be counted differently for different types of insurance (such as Medicaid or employer coverage).",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "Data exclude a small number of people with private coverage of an unknown source.  Data may not sum to totals due to rounding and the exclusion of these people.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "Sources",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "Kaiser Family Foundation estimates based on the Census Bureau's March Current Population Survey (CPS: Annual Social and Economic Supplements), 2014-2017.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "Definitions",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "The ASEC asks respondents about their health insurance coverage throughout the previous calendar year. Respondents may report having more than one type of coverage. In this analysis, individuals are sorted into only one category of insurance coverage using the following hierarchy:",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*Medicaid*: Includes those covered by Medicaid, the Children%u2019s Health Insurance Program (CHIP), and those who have both Medicaid and another type of coverage, such as dual eligibles who are also covered by Medicare.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*Medicare*: Includes those covered by Medicare, Medicare Advantage, and those who have Medicare and another type of non-Medicaid coverage where Medicare is the primary payer. Excludes those with Medicare Part A coverage only and those covered by Medicare and Medicaid (dual eligibles).",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*Employer*: Includes those covered by employer-sponsored coverage either through their own job or as a dependent in the same household.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*Other Public*: Includes those covered under the military or Veterans Administration.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*Non-Group*: Includes individuals and families that purchased or are covered as a dependent by non-group insurance.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*Uninsured*: Includes those without health insurance and those who have coverage under the Indian Health Service only.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "For example, a person having Medicaid coverage in the first half of the year but employer-based coverage in the last months of the year would be categorized as having Medicaid coverage in this analysis.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  },
+  {
+    "Location": "*N/A*: Estimates with relative standard errors greater than 30% are not provided.",
+    "Employer": "",
+    "Non-Group": "",
+    "Medicaid": "",
+    "Medicare": "",
+    "Other Public": "",
+    "Uninsured": "",
+    "Total": ""
+  }
+]
