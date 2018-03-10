@@ -4,9 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>DiscoveryMap Home</title>
-  <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
@@ -20,18 +18,18 @@
         <form action="/submit">
             <select name="CoD" id="CoD">
                 <option value="Select">Select Cause of Death</option>
-                <option id = "All" value="AllCause">All Causes</option>
+                <option id = "All" value="AllDeaths">All Causes</option>
                 <option id = "CLRD" value="CLRD">Chronic Lower Respiratory Disease</option>
-                <option id = "Alz" value="Alzheimer">Alzheimer's Disease</option>
+                <option id = "Alz" value="Alz">Alzheimer's Disease</option>
                 <option id = "Cancer" value="Cancer">Cancer</option>
-                <option id= "Accident" value="Accident">Unintentional Injuries</option>
+                <option id= "Accident" value="Unintentional">Unintentional Injuries</option>
                 <option id= "Homicide" value="Homicide">Homicide</option>
                 <option id= "Stroke" value="Stroke">Stroke</option>
                 <option id= "Liver" value="Liver">Chronic Liver Disease and Cirrhosis</option>
                 <option id= "Diabetes" value="Diabetes">Diabetes</option>
                 <option id= "Heart" value="Heart">Diseases of the Heart</option>
                 <option id= "Hyper" value="Hyper">Essential Hypertension and Hypertensive Renal Disease</option>
-                <option id= "PneuFlu" value="PneuFlu">Influenza and Pneumonia</option>
+                <option id= "PneuFlu" value="Pneuflu">Influenza and Pneumonia</option>
                 <option id= "Suicide" value="Suicide">Suicide</option>
                 <option id= "Kidney" value="Kidney">Kidney Disease</option>
                 <option id= "Park" value="Park">Parkinson's Disease</option>
