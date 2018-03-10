@@ -18,6 +18,10 @@
 CoD = localStorage.getItem("CoDStore");
 // Comparison = localStorage.getItem("CompStore");
 
+(window).load(function () {
+    localStorage.clear();
+});
+
 // query = 'SELECT TotalActivePhysicians FROM specialist WHERE Specialty==' + Comparison
 
 // Specialist = db.all(query, [], (err, rows) => {
