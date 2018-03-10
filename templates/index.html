@@ -49,10 +49,12 @@
                 <option id= "Surgery" value="Surgery">Total US General Surgeons</option>
                 <option id= "Int" value="Int">Total US Internal Medicine Specialists</option>
                 <option id= "Uro" value="Uro">Total US Urologists</option>
+                <option id= "Neuro" value="Neuro">Total US Neurologists</option>
+                <option id= "Nephro" value="Nephro">Total US Nephrologists</option>
                 <option id= "Endo" value="Endo">Total US Endocrinology, Diabetes, and Metabolism Specialists</option>
             </select>
             <br><br>
-            <input type="submit" id="submitbutton" value="Create Map">
+            <input type="submit" id="submitbutton" value="Create Map" onclick="assign(CoD, Comparison);">
         </form>
     </div>
     <br><br>
@@ -61,13 +63,14 @@
     <div id="plot"></div>
     <script src="static/data.js"></script>
     <script src="static/plots.js"></script>
-    <br><br>
+    <br><br> 
     <div id="plotb"></div>
     <script src="static/datab.js"></script>
     <script src="static/plotsb.js"></script>
     <br><br>
     <br><br>
     <br><br>
+    <script type="text/javascript" src="static/logic.js"></script>
 
 </body>
 </html>

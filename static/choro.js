@@ -1,12 +1,18 @@
-var myMap = L.map("map", {
-    // Center of US
-    center: [37.09, -95.71],
-    zoom: 4
-});
-// Adding tile layer
-L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=" +
-  "pk.eyJ1IjoicnJ3b2xiZXIiLCJhIjoiY2pkd2drY203MDVtbzJ3bzF2NXUxdnNqayJ9.vzgFq7GgYJFYIJoCWDyu7g").addTo(myMap);
-// var geojson;
+
+CoD = localStorage.getItem("CoDStore");
+Comparison = localStorage.getItem("CompStore");
+alert(CoD + ", " + Comparison);
+
+
+// var myMap = L.map("map", {
+//     // Center of US
+//     center: [37.09, -95.71],
+//     zoom: 4
+// });
+// // Adding tile layer
+// L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=" +
+//   "pk.eyJ1IjoicnJ3b2xiZXIiLCJhIjoiY2pkd2drY203MDVtbzJ3bzF2NXUxdnNqayJ9.vzgFq7GgYJFYIJoCWDyu7g").addTo(myMap);
+// // var geojson;
 // // Grabbing data with d3...
 // // d3.json("Resources/mhi_nyc.geojson", function(data) {
 //  d3.json("mapout.json", function(data) {
