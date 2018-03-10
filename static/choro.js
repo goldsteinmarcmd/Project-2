@@ -16,7 +16,7 @@
 
 
 CoD = localStorage.getItem("CoDStore");
-Comparison = localStorage.getItem("CompStore");
+// Comparison = localStorage.getItem("CompStore");
 
 // query = 'SELECT TotalActivePhysicians FROM specialist WHERE Specialty==' + Comparison
 
@@ -87,7 +87,7 @@ var geojson;
         var colors = geojson.options.colors;
         var labels = [];
         // Add min & max
-        var legendInfo = "<h1>Deaths</h1>" +
+        var legendInfo = "<h1>Percentile</h1>" +
       "<div class=\"labels\">" +
         "<div class=\"min\">" + limits[0] + "</div>" +
         "<div class=\"max\">" + limits[limits.length - 1] + "</div>" +

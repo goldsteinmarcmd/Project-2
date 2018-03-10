@@ -1,15 +1,15 @@
 
 
 
-function assign(CoD, Comparison){
+function assign(CoD){
 var CODdropdown = document.getElementById("CoD");
 var CoD = CODdropdown.options[CODdropdown.selectedIndex].value;
 
-var Compdropdown = document.getElementById("Comparison");
-var Comparison = Compdropdown.options[Compdropdown.selectedIndex].value;
+// var Compdropdown = document.getElementById("Comparison");
+// var Comparison = Compdropdown.options[Compdropdown.selectedIndex].value;
 
 localStorage.setItem("CoDStore",CoD);
-localStorage.setItem("CompStore",Comparison);
+// localStorage.setItem("CompStore",Comparison);
 }
 
 
