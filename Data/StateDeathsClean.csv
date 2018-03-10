@@ -1,0 +1,885 @@
+Year,CauseNameCode,CauseName,State,Deaths,AADR
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Alabama,2552.0,50.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Alaska,388.0,57.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Arizona,3539.0,49.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Arkansas,1538.0,49.6
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,California,12544.0,30.6
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Colorado,2725.0,49.7
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Connecticut,1799.0,44.8
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Delaware,449.0,46.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,District of Columbia,265.0,40.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Florida,10578.0,46.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Georgia,4344.0,43.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Hawaii,536.0,32.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Idaho,746.0,44.7
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Illinois,4850.0,35.8
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Indiana,3258.0,47.7
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Iowa,1537.0,42.1
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Kansas,1475.0,47.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Kentucky,2962.0,66.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Louisiana,2578.0,54.7
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Maine,802.0,53.8
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Maryland,1903.0,29.7
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Massachusetts,3229.0,44.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Michigan,4647.0,43.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Minnesota,2574.0,42.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Mississippi,1814.0,59.8
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Missouri,3309.0,50.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Montana,637.0,56.3
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Nebraska,799.0,38.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Nevada,1340.0,45.4
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,New Hampshire,815.0,59.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,New Jersey,3218.0,33.7
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,New Mexico,1430.0,67.3
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,New York,6515.0,30.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,North Carolina,4991.0,47.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,North Dakota,368.0,44.1
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Ohio,6756.0,55.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Oklahoma,2422.0,60.1
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Oregon,1999.0,44.5
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Pennsylvania,7324.0,52.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Rhode Island,649.0,53.1
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,South Carolina,2737.0,54.0
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,South Dakota,469.0,49.5
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Tennessee,3873.0,56.4
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Texas,9976.0,37.4
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,United States,146571.0,43.2
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Utah,1223.0,45.6
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Vermont,346.0,48.4
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Virginia,3429.0,39.6
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Washington,3192.0,41.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,West Virginia,1516.0,77.9
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Wisconsin,3206.0,49.3
+2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional Injuries,Wyoming,400.0,65.8
+2015,All Causes,All Causes,Alabama,51909.0,924.5
+2015,All Causes,All Causes,Alaska,4316.0,747.4
+2015,All Causes,All Causes,Arizona,54299.0,671.8
+2015,All Causes,All Causes,Arkansas,31617.0,901.8
+2015,All Causes,All Causes,California,259206.0,621.6
+2015,All Causes,All Causes,Colorado,36349.0,665.0
+2015,All Causes,All Causes,Connecticut,30535.0,656.1
+2015,All Causes,All Causes,Delaware,8582.0,741.5
+2015,All Causes,All Causes,District of Columbia,4871.0,748.6
+2015,All Causes,All Causes,Florida,191737.0,662.9
+2015,All Causes,All Causes,Georgia,79942.0,808.1
+2015,All Causes,All Causes,Hawaii,11053.0,588.2
+2015,All Causes,All Causes,Idaho,13026.0,727.8
+2015,All Causes,All Causes,Illinois,106872.0,728.3
+2015,All Causes,All Causes,Indiana,62713.0,833.9
+2015,All Causes,All Causes,Iowa,29600.0,724.6
+2015,All Causes,All Causes,Kansas,26664.0,774.1
+2015,All Causes,All Causes,Kentucky,46564.0,924.7
+2015,All Causes,All Causes,Louisiana,43716.0,874.2
+2015,All Causes,All Causes,Maine,14479.0,783.5
+2015,All Causes,All Causes,Maryland,47247.0,705.7
+2015,All Causes,All Causes,Massachusetts,57806.0,684.8
+2015,All Causes,All Causes,Michigan,95140.0,784.4
+2015,All Causes,All Causes,Minnesota,42800.0,653.8
+2015,All Causes,All Causes,Mississippi,31783.0,963.7
+2015,All Causes,All Causes,Missouri,59871.0,816.9
+2015,All Causes,All Causes,Montana,9942.0,762.7
+2015,All Causes,All Causes,Nebraska,16740.0,739.2
+2015,All Causes,All Causes,Nevada,22879.0,757.2
+2015,All Causes,All Causes,New Hampshire,11984.0,720.6
+2015,All Causes,All Causes,New Jersey,72271.0,666.0
+2015,All Causes,All Causes,New Mexico,17685.0,741.5
+2015,All Causes,All Causes,New York,153628.0,644.0
+2015,All Causes,All Causes,North Carolina,89133.0,789.9
+2015,All Causes,All Causes,North Dakota,6223.0,696.8
+2015,All Causes,All Causes,Ohio,118188.0,828.4
+2015,All Causes,All Causes,Oklahoma,39422.0,904.3
+2015,All Causes,All Causes,Oregon,35705.0,722.3
+2015,All Causes,All Causes,Pennsylvania,132598.0,768.3
+2015,All Causes,All Causes,Rhode Island,10163.0,721.9
+2015,All Causes,All Causes,South Carolina,47198.0,840.0
+2015,All Causes,All Causes,South Dakota,7731.0,715.4
+2015,All Causes,All Causes,Tennessee,66570.0,886.4
+2015,All Causes,All Causes,Texas,189654.0,745.0
+2015,All Causes,All Causes,United States,2712630.0,733.1
+2015,All Causes,All Causes,Utah,17334.0,712.1
+2015,All Causes,All Causes,Vermont,5919.0,714.7
+2015,All Causes,All Causes,Virginia,65577.0,721.6
+2015,All Causes,All Causes,Washington,54595.0,687.4
+2015,All Causes,All Causes,West Virginia,22752.0,943.4
+2015,All Causes,All Causes,Wisconsin,51264.0,715.9
+2015,All Causes,All Causes,Wyoming,4778.0,748.3
+2015,Alzheimer's disease (G30),Alzheimer's disease,Alabama,2282.0,41.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,Alaska,68.0,16.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2943.0,35.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457.0,41.5
+2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065.0,35.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612.0,31.3
+2015,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,966.0,19.0
+2015,Alzheimer's disease (G30),Alzheimer's disease,Delaware,264.0,22.6
+2015,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129.0,19.2
+2015,Alzheimer's disease (G30),Alzheimer's disease,Florida,7031.0,21.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,Georgia,3714.0,42.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,422.0,19.5
+2015,Alzheimer's disease (G30),Alzheimer's disease,Idaho,552.0,31.6
+2015,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3686.0,24.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513.0,33.1
+2015,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1339.0,29.9
+2015,Alzheimer's disease (G30),Alzheimer's disease,Kansas,865.0,23.5
+2015,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1694.0,34.9
+2015,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2018.0,42.5
+2015,Alzheimer's disease (G30),Alzheimer's disease,Maine,544.0,28.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1095.0,16.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1815.0,20.2
+2015,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3771.0,30.1
+2015,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1789.0,26.0
+2015,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1402.0,44.1
+2015,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2173.0,28.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Montana,277.0,20.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598.0,24.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,Nevada,874.0,32.9
+2015,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,432.0,25.5
+2015,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,2260.0,19.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,483.0,19.9
+2015,Alzheimer's disease (G30),Alzheimer's disease,New York,3174.0,12.6
+2015,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,3803.0,34.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,376.0,36.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643.0,31.1
+2015,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1498.0,34.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1652.0,33.0
+2015,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,4012.0,21.0
+2015,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,453.0,28.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453.0,46.2
+2015,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,421.0,34.8
+2015,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3122.0,43.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,Texas,8903.0,38.2
+2015,Alzheimer's disease (G30),Alzheimer's disease,United States,110561.0,29.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,Utah,906.0,40.7
+2015,Alzheimer's disease (G30),Alzheimer's disease,Vermont,298.0,35.1
+2015,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2248.0,25.6
+2015,Alzheimer's disease (G30),Alzheimer's disease,Washington,3490.0,44.4
+2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738.0,30.0
+2015,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087.0,27.5
+2015,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151.0,24.2
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Alabama,473.0,10.2
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Alaska,62.0,8.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Arizona,364.0,5.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Arkansas,217.0,7.4
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,California,1987.0,5.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Colorado,206.0,3.7
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Connecticut,124.0,3.6
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Delaware,65.0,7.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,District of Columbia,136.0,17.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Florida,1208.0,6.3
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Georgia,738.0,7.3
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Hawaii,31.0,2.2
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Idaho,33.0,2.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Illinois,863.0,6.9
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Indiana,389.0,6.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Iowa,73.0,2.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Kansas,132.0,4.7
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Kentucky,250.0,5.8
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Louisiana,569.0,12.4
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Maine,22.0,1.7
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Maryland,596.0,10.3
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Massachusetts,144.0,2.1
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Michigan,597.0,6.4
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Minnesota,147.0,2.8
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Mississippi,325.0,11.3
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Missouri,547.0,9.6
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Montana,38.0,4.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Nebraska,75.0,4.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Nevada,191.0,6.7
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,New Hampshire,18.0,
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,New Jersey,388.0,4.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,New Mexico,157.0,8.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,New York,671.0,3.4
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,North Carolina,593.0,6.1
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,North Dakota,22.0,3.1
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Ohio,669.0,6.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Oklahoma,324.0,8.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Oregon,138.0,3.4
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Pennsylvania,673.0,5.6
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Rhode Island,28.0,2.8
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,South Carolina,448.0,9.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,South Dakota,35.0,4.2
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Tennessee,460.0,7.2
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Texas,1538.0,5.6
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,United States,17793.0,5.7
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Utah,60.0,2.0
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Vermont,16.0,
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Virginia,374.0,4.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Washington,239.0,3.4
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,West Virginia,80.0,4.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Wisconsin,243.0,4.5
+2015,"Assault (homicide) (*U01-*U02,X85-Y09,Y87.1)",Homicide,Wyoming,17.0,
+2015,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2937.0,52.2
+2015,Cerebrovascular diseases (I60-I69),Stroke,Alaska,182.0,36.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522.0,30.7
+2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653.0,46.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065.0,36.2
+2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856.0,34.9
+2015,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1388.0,28.5
+2015,Cerebrovascular diseases (I60-I69),Stroke,Delaware,466.0,39.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,242.0,38.3
+2015,Cerebrovascular diseases (I60-I69),Stroke,Florida,11433.0,37.1
+2015,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4335.0,45.3
+2015,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,735.0,38.2
+2015,Cerebrovascular diseases (I60-I69),Stroke,Idaho,641.0,36.3
+2015,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5709.0,38.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2959.0,39.1
+2015,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1418.0,33.2
+2015,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1364.0,38.6
+2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050.0,40.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2280.0,46.0
+2015,Cerebrovascular diseases (I60-I69),Stroke,Maine,616.0,32.6
+2015,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2540.0,37.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2475.0,28.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4666.0,37.6
+2015,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2238.0,33.5
+2015,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1734.0,52.6
+2015,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3037.0,40.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458.0,33.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776.0,33.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1078.0,37.0
+2015,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457.0,26.9
+2015,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3413.0,31.1
+2015,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,786.0,32.5
+2015,Cerebrovascular diseases (I60-I69),Stroke,New York,6292.0,26.0
+2015,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5033.0,44.7
+2015,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,308.0,33.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945.0,40.7
+2015,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1881.0,43.0
+2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873.0,37.5
+2015,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6987.0,38.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,394.0,27.1
+2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600.0,46.7
+2015,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,383.0,33.2
+2015,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3447.0,46.0
+2015,Cerebrovascular diseases (I60-I69),Stroke,Texas,10485.0,42.7
+2015,Cerebrovascular diseases (I60-I69),Stroke,United States,140323.0,37.6
+2015,Cerebrovascular diseases (I60-I69),Stroke,Utah,888.0,38.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,Vermont,307.0,36.4
+2015,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3393.0,38.0
+2015,Cerebrovascular diseases (I60-I69),Stroke,Washington,2703.0,34.2
+2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079.0,43.8
+2015,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2618.0,35.6
+2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198.0,31.4
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Alabama,716.0,12.5
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Alaska,114.0,15.4
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Arizona,1149.0,15.0
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Arkansas,421.0,12.1
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,California,5425.0,12.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Colorado,735.0,12.2
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Connecticut,365.0,8.4
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Delaware,111.0,9.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,District of Columbia,61.0,8.8
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Florida,3084.0,11.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Georgia,1003.0,9.0
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Hawaii,138.0,8.1
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Idaho,218.0,12.2
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Illinois,1289.0,8.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Indiana,859.0,11.4
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Iowa,328.0,9.1
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Kansas,313.0,9.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Kentucky,657.0,12.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Louisiana,553.0,10.5
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Maine,195.0,11.1
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Maryland,471.0,6.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Massachusetts,661.0,8.2
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Michigan,1287.0,10.8
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Minnesota,542.0,8.5
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Mississippi,382.0,11.1
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Missouri,678.0,9.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Montana,179.0,15.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Nebraska,165.0,7.8
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Nevada,475.0,14.5
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,New Hampshire,161.0,9.3
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,New Jersey,782.0,7.3
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,New Mexico,566.0,24.8
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,New York,1571.0,6.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,North Carolina,1254.0,10.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,North Dakota,86.0,11.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Ohio,1506.0,10.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Oklahoma,597.0,13.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Oregon,667.0,13.7
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Pennsylvania,1438.0,8.9
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Rhode Island,139.0,10.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,South Carolina,716.0,12.2
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,South Dakota,139.0,16.1
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Tennessee,957.0,12.2
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Texas,3844.0,13.8
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,United States,40326.0,10.8
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Utah,244.0,9.3
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Vermont,71.0,8.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Virginia,943.0,9.6
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Washington,1024.0,12.4
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,West Virginia,338.0,14.2
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Wisconsin,591.0,8.5
+2015,"Chronic liver disease and cirrhosis (K70,K73-K74)",Chronic liver disease and cirrhosis,Wyoming,118.0,18.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,3279.0,56.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,204.0,37.8
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3681.0,43.8
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270.0,62.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,California,13621.0,33.1
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577.0,47.8
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1369.0,29.7
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,510.0,42.5
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,147.0,23.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,11705.0,38.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,4607.0,46.7
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,332.0,17.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,843.0,46.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5544.0,38.2
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4212.0,55.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,2011.0,49.1
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1704.0,49.7
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3331.0,64.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2178.0,43.2
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,1025.0,53.6
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2040.0,30.7
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2784.0,33.0
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5848.0,47.5
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2351.0,36.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1924.0,57.1
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3935.0,52.8
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,679.0,50.2
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174.0,52.2
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1617.0,54.1
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,705.0,41.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3202.0,29.6
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1109.0,44.7
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7109.0,29.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5221.0,45.5
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,351.0,40.0
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7211.0,49.6
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2924.0,65.8
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119.0,42.4
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6664.0,38.1
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,510.0,36.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2908.0,49.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,502.0,45.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4239.0,54.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,10231.0,41.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,United States,155041.0,41.6
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,811.0,33.9
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,357.0,42.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3370.0,37.1
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,3154.0,39.7
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628.0,64.6
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846.0,39.3
+2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368.0,57.1
+2015,Diabetes mellitus (E10-E14),Diabetes,Alabama,1255.0,21.7
+2015,Diabetes mellitus (E10-E14),Diabetes,Alaska,142.0,23.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081.0,25.3
+2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886.0,24.7
+2015,Diabetes mellitus (E10-E14),Diabetes,California,8845.0,21.2
+2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887.0,15.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Connecticut,653.0,13.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Delaware,215.0,18.1
+2015,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,162.0,25.7
+2015,Diabetes mellitus (E10-E14),Diabetes,Florida,5403.0,18.6
+2015,Diabetes mellitus (E10-E14),Diabetes,Georgia,2210.0,21.4
+2015,Diabetes mellitus (E10-E14),Diabetes,Hawaii,263.0,14.5
+2015,Diabetes mellitus (E10-E14),Diabetes,Idaho,403.0,22.1
+2015,Diabetes mellitus (E10-E14),Diabetes,Illinois,2817.0,19.2
+2015,Diabetes mellitus (E10-E14),Diabetes,Indiana,2030.0,26.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Iowa,1077.0,26.7
+2015,Diabetes mellitus (E10-E14),Diabetes,Kansas,684.0,20.2
+2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458.0,28.2
+2015,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1199.0,23.5
+2015,Diabetes mellitus (E10-E14),Diabetes,Maine,407.0,21.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Maryland,1243.0,18.3
+2015,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1398.0,16.7
+2015,Diabetes mellitus (E10-E14),Diabetes,Michigan,2751.0,22.5
+2015,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1221.0,18.6
+2015,Diabetes mellitus (E10-E14),Diabetes,Mississippi,1092.0,32.4
+2015,Diabetes mellitus (E10-E14),Diabetes,Missouri,1468.0,19.7
+2015,Diabetes mellitus (E10-E14),Diabetes,Montana,321.0,24.5
+2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553.0,24.8
+2015,Diabetes mellitus (E10-E14),Diabetes,Nevada,420.0,13.4
+2015,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,308.0,17.9
+2015,Diabetes mellitus (E10-E14),Diabetes,New Jersey,1933.0,17.9
+2015,Diabetes mellitus (E10-E14),Diabetes,New Mexico,608.0,24.9
+2015,Diabetes mellitus (E10-E14),Diabetes,New York,4045.0,17.1
+2015,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2746.0,23.6
+2015,Diabetes mellitus (E10-E14),Diabetes,North Dakota,195.0,22.6
+2015,Diabetes mellitus (E10-E14),Diabetes,Ohio,3645.0,25.3
+2015,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1442.0,32.4
+2015,Diabetes mellitus (E10-E14),Diabetes,Oregon,1148.0,22.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3777.0,22.1
+2015,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,276.0,20.2
+2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347.0,23.4
+2015,Diabetes mellitus (E10-E14),Diabetes,South Dakota,282.0,26.3
+2015,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1798.0,23.4
+2015,Diabetes mellitus (E10-E14),Diabetes,Texas,5521.0,21.2
+2015,Diabetes mellitus (E10-E14),Diabetes,United States,79535.0,21.3
+2015,Diabetes mellitus (E10-E14),Diabetes,Utah,604.0,24.6
+2015,Diabetes mellitus (E10-E14),Diabetes,Vermont,159.0,19.8
+2015,Diabetes mellitus (E10-E14),Diabetes,Virginia,2044.0,21.9
+2015,Diabetes mellitus (E10-E14),Diabetes,Washington,1811.0,22.4
+2015,Diabetes mellitus (E10-E14),Diabetes,West Virginia,784.0,31.7
+2015,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1382.0,19.4
+2015,Diabetes mellitus (E10-E14),Diabetes,Wyoming,136.0,20.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Alabama,12981.0,229.7
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Alaska,846.0,154.1
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Arizona,11458.0,138.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Arkansas,7938.0,223.2
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,California,61289.0,145.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Colorado,7009.0,128.4
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Connecticut,7205.0,147.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Delaware,1940.0,165.2
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,District of Columbia,1217.0,187.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Florida,45441.0,149.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Georgia,17769.0,180.2
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Hawaii,2605.0,135.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Idaho,2825.0,156.4
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Illinois,25652.0,171.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Indiana,13948.0,182.3
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Iowa,6813.0,160.9
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Kansas,5624.0,158.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Kentucky,10077.0,197.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Louisiana,10665.0,212.1
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Maine,3009.0,157.3
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Maryland,11481.0,169.3
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Massachusetts,12130.0,138.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Michigan,24794.0,198.9
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Minnesota,7844.0,116.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Mississippi,7969.0,240.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Missouri,14808.0,197.9
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Montana,2104.0,155.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Nebraska,3591.0,154.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Nevada,6114.0,200.9
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,New Hampshire,2571.0,149.0
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,New Jersey,18647.0,166.7
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,New Mexico,3508.0,142.4
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,New York,44450.0,181.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,North Carolina,18474.0,162.4
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,North Dakota,1323.0,142.4
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Ohio,28069.0,191.7
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Oklahoma,10310.0,234.0
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Oregon,6859.0,136.1
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Pennsylvania,32042.0,177.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Rhode Island,2371.0,160.4
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,South Carolina,10092.0,177.8
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,South Dakota,1711.0,150.9
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Tennessee,15730.0,207.3
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Texas,43298.0,171.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,United States,633842.0,168.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Utah,3598.0,152.9
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Vermont,1311.0,152.5
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Virginia,14077.0,154.2
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Washington,11025.0,137.6
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,West Virginia,4727.0,191.3
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Wisconsin,11473.0,156.0
+2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Diseases of Heart,Wyoming,1030.0,159.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Alabama,519.0,9.2
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Alaska,38.0,7.2
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Arizona,963.0,11.6
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Arkansas,329.0,9.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,California,5118.0,12.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Colorado,273.0,5.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Connecticut,317.0,6.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Delaware,64.0,5.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,District of Columbia,87.0,13.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Florida,2187.0,7.2
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Georgia,1076.0,10.9
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Hawaii,86.0,4.2
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Idaho,101.0,5.8
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Illinois,1137.0,7.6
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Indiana,694.0,9.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Iowa,390.0,8.9
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Kansas,245.0,6.8
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Kentucky,441.0,8.8
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Louisiana,369.0,7.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Maine,97.0,4.9
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Maryland,521.0,7.7
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Massachusetts,603.0,6.9
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Michigan,922.0,7.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Minnesota,518.0,7.6
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Mississippi,508.0,15.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Missouri,513.0,6.7
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Montana,61.0,4.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Nebraska,247.0,10.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Nevada,194.0,6.6
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,New Hampshire,89.0,5.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,New Jersey,733.0,6.5
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,New Mexico,154.0,6.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,New York,2287.0,9.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,North Carolina,944.0,8.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,North Dakota,79.0,8.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Ohio,1395.0,9.5
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Oklahoma,502.0,11.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Oregon,565.0,11.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Pennsylvania,1108.0,6.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Rhode Island,108.0,7.1
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,South Carolina,482.0,8.7
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,South Dakota,104.0,8.8
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Tennessee,649.0,8.6
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Texas,2089.0,8.3
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,United States,32200.0,8.5
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Utah,136.0,5.7
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Vermont,57.0,6.7
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Virginia,684.0,7.5
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Washington,594.0,7.4
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,West Virginia,297.0,11.9
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Wisconsin,485.0,6.6
+2015,"Essential hypertension and hypertensive renal disease (I10,I12,I15)",Essential hypertension and hypertensive renal disease,Wyoming,41.0,6.4
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1097.0,19.5
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,41.0,8.4
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775.0,9.5
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,700.0,20.0
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6188.0,14.8
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,659.0,12.3
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,667.0,13.6
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,189.0,16.1
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,104.0,16.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2676.0,8.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1467.0,15.5
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,557.0,27.4
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,218.0,12.4
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2343.0,15.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044.0,13.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,618.0,14.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,682.0,18.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967.0,19.3
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753.0,15.3
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,333.0,17.6
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1176.0,17.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1512.0,17.1
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1894.0,15.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,738.0,10.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,791.0,24.0
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1337.0,17.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183.0,13.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,397.0,16.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,630.0,21.3
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,275.0,16.1
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1402.0,12.5
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,322.0,13.6
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4881.0,20.0
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,2115.0,18.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,172.0,17.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445.0,16.6
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,717.0,16.5
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,453.0,9.0
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2899.0,15.9
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,246.0,16.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,848.0,15.3
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,213.0,18.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1723.0,23.3
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3214.0,13.0
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,57062.0,15.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,372.0,15.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,85.0,10.0
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416.0,15.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,851.0,10.7
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526.0,21.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052.0,14.2
+2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99.0,16.0
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,750.0,14.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,201.0,26.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1276.0,18.2
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,577.0,19.1
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4167.0,10.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1093.0,19.5
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,384.0,9.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,122.0,12.6
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,District of Columbia,34.0,4.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,3205.0,14.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1317.0,12.7
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,201.0,13.5
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,359.0,22.1
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1363.0,10.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960.0,14.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,433.0,13.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,477.0,16.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,776.0,17.1
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,722.0,15.2
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,235.0,16.0
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,553.0,8.8
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,642.0,8.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1410.0,13.8
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,730.0,13.2
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,431.0,14.0
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1052.0,17.1
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,272.0,25.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223.0,11.7
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,558.0,18.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,228.0,16.5
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,789.0,8.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,500.0,23.7
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1652.0,7.8
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1406.0,13.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,124.0,17.5
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650.0,13.9
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,790.0,20.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762.0,17.8
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1894.0,14.0
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,127.0,11.2
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,742.0,14.8
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,173.0,20.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068.0,15.7
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,3403.0,12.5
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,44193.0,13.3
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,630.0,22.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,103.0,14.8
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1118.0,12.7
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1137.0,15.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,340.0,17.4
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,877.0,14.7
+2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,157.0,28.0
+2015,Malignant neoplasms (C00-C97),Cancer,Alabama,10354.0,175.6
+2015,Malignant neoplasms (C00-C97),Cancer,Alaska,978.0,159.8
+2015,Malignant neoplasms (C00-C97),Cancer,Arizona,11776.0,141.3
+2015,Malignant neoplasms (C00-C97),Cancer,Arkansas,6727.0,185.4
+2015,Malignant neoplasms (C00-C97),Cancer,California,59629.0,142.8
+2015,Malignant neoplasms (C00-C97),Cancer,Colorado,7604.0,134.4
+2015,Malignant neoplasms (C00-C97),Cancer,Connecticut,6666.0,146.2
+2015,Malignant neoplasms (C00-C97),Cancer,Delaware,2010.0,165.6
+2015,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1072.0,167.5
+2015,Malignant neoplasms (C00-C97),Cancer,Florida,44027.0,150.6
+2015,Malignant neoplasms (C00-C97),Cancer,Georgia,16945.0,163.0
+2015,Malignant neoplasms (C00-C97),Cancer,Hawaii,2462.0,135.3
+2015,Malignant neoplasms (C00-C97),Cancer,Idaho,2849.0,153.6
+2015,Malignant neoplasms (C00-C97),Cancer,Illinois,24713.0,167.6
+2015,Malignant neoplasms (C00-C97),Cancer,Indiana,13511.0,176.3
+2015,Malignant neoplasms (C00-C97),Cancer,Iowa,6513.0,164.1
+2015,Malignant neoplasms (C00-C97),Cancer,Kansas,5604.0,164.6
+2015,Malignant neoplasms (C00-C97),Cancer,Kentucky,10312.0,195.9
+2015,Malignant neoplasms (C00-C97),Cancer,Louisiana,9397.0,180.2
+2015,Malignant neoplasms (C00-C97),Cancer,Maine,3398.0,178.0
+2015,Malignant neoplasms (C00-C97),Cancer,Maryland,10568.0,155.0
+2015,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12750.0,152.9
+2015,Malignant neoplasms (C00-C97),Cancer,Michigan,20732.0,168.0
+2015,Malignant neoplasms (C00-C97),Cancer,Minnesota,9925.0,153.0
+2015,Malignant neoplasms (C00-C97),Cancer,Mississippi,6485.0,188.4
+2015,Malignant neoplasms (C00-C97),Cancer,Missouri,12965.0,173.4
+2015,Malignant neoplasms (C00-C97),Cancer,Montana,2130.0,156.9
+2015,Malignant neoplasms (C00-C97),Cancer,Nebraska,3514.0,157.8
+2015,Malignant neoplasms (C00-C97),Cancer,Nevada,5015.0,157.2
+2015,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2773.0,161.3
+2015,Malignant neoplasms (C00-C97),Cancer,New Jersey,16270.0,150.8
+2015,Malignant neoplasms (C00-C97),Cancer,New Mexico,3591.0,143.3
+2015,Malignant neoplasms (C00-C97),Cancer,New York,35089.0,148.4
+2015,Malignant neoplasms (C00-C97),Cancer,North Carolina,19322.0,164.7
+2015,Malignant neoplasms (C00-C97),Cancer,North Dakota,1320.0,152.9
+2015,Malignant neoplasms (C00-C97),Cancer,Ohio,25396.0,175.1
+2015,Malignant neoplasms (C00-C97),Cancer,Oklahoma,8280.0,184.3
+2015,Malignant neoplasms (C00-C97),Cancer,Oregon,8093.0,160.2
+2015,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28697.0,167.2
+2015,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2226.0,163.1
+2015,Malignant neoplasms (C00-C97),Cancer,South Carolina,9950.0,166.6
+2015,Malignant neoplasms (C00-C97),Cancer,South Dakota,1640.0,154.0
+2015,Malignant neoplasms (C00-C97),Cancer,Tennessee,14214.0,180.5
+2015,Malignant neoplasms (C00-C97),Cancer,Texas,39121.0,149.2
+2015,Malignant neoplasms (C00-C97),Cancer,United States,595930.0,158.5
+2015,Malignant neoplasms (C00-C97),Cancer,Utah,3091.0,125.2
+2015,Malignant neoplasms (C00-C97),Cancer,Vermont,1399.0,165.3
+2015,Malignant neoplasms (C00-C97),Cancer,Virginia,14947.0,159.5
+2015,Malignant neoplasms (C00-C97),Cancer,Washington,12687.0,156.4
+2015,Malignant neoplasms (C00-C97),Cancer,West Virginia,4839.0,190.4
+2015,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11423.0,159.3
+2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931.0,139.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Alabama,1040.0,18.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Alaska,50.0,10.0
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Arizona,458.0,5.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Arkansas,707.0,19.8
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,California,3557.0,8.6
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Colorado,458.0,8.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Connecticut,584.0,12.1
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Delaware,174.0,14.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,District of Columbia,65.0,9.9
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Florida,3203.0,10.8
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Georgia,1881.0,19.2
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Hawaii,202.0,10.8
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Idaho,154.0,8.7
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Illinois,2543.0,17.3
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Indiana,1450.0,18.9
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Iowa,336.0,8.0
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Kansas,582.0,16.8
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Kentucky,998.0,19.7
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Louisiana,1160.0,23.2
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Maine,211.0,11.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Maryland,834.0,12.3
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Massachusetts,1228.0,14.3
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Michigan,1921.0,15.6
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Minnesota,639.0,9.7
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Mississippi,731.0,22.0
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Missouri,1483.0,19.9
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Montana,121.0,9.3
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Nebraska,264.0,11.2
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Nevada,316.0,10.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,New Hampshire,194.0,11.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,New Jersey,1582.0,14.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,New Mexico,316.0,12.9
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,New York,2245.0,9.3
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,North Carolina,1821.0,16.0
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,North Dakota,118.0,12.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Ohio,2100.0,14.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Oklahoma,616.0,14.2
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Oregon,409.0,8.2
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Pennsylvania,3021.0,16.9
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Rhode Island,142.0,9.8
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,South Carolina,886.0,15.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,South Dakota,79.0,7.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Tennessee,1090.0,14.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Texas,4052.0,16.1
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,United States,49959.0,13.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Utah,363.0,15.6
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Vermont,39.0,4.5
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Virginia,1470.0,16.1
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Washington,474.0,5.9
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,West Virginia,510.0,20.4
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Wisconsin,996.0,13.7
+2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney Disease,Wyoming,86.0,13.3
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Alabama,461.0,8.4
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Alaska,38.0,8.7
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Arizona,720.0,8.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Arkansas,248.0,7.0
+2015,Parkinson's disease (G20-G21),Parkinson's disease,California,2896.0,7.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Colorado,452.0,9.0
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Connecticut,334.0,7.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Delaware,84.0,7.3
+2015,Parkinson's disease (G20-G21),Parkinson's disease,District of Columbia,33.0,5.5
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Florida,2228.0,7.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Georgia,733.0,8.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Hawaii,141.0,7.3
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Idaho,169.0,9.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Illinois,1079.0,7.6
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Indiana,638.0,8.7
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Iowa,341.0,8.1
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Kansas,326.0,9.4
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Kentucky,395.0,8.1
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Louisiana,371.0,7.9
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Maine,147.0,8.1
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Maryland,461.0,7.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Massachusetts,640.0,7.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Michigan,960.0,8.1
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Minnesota,620.0,9.6
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Mississippi,247.0,7.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Missouri,560.0,7.7
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Montana,114.0,8.5
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Nebraska,220.0,9.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Nevada,213.0,7.5
+2015,Parkinson's disease (G20-G21),Parkinson's disease,New Hampshire,143.0,8.9
+2015,Parkinson's disease (G20-G21),Parkinson's disease,New Jersey,716.0,6.6
+2015,Parkinson's disease (G20-G21),Parkinson's disease,New Mexico,172.0,7.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,New York,1247.0,5.3
+2015,Parkinson's disease (G20-G21),Parkinson's disease,North Carolina,897.0,8.3
+2015,Parkinson's disease (G20-G21),Parkinson's disease,North Dakota,65.0,7.1
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Ohio,1139.0,8.0
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Oklahoma,334.0,7.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Oregon,429.0,8.9
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Pennsylvania,1348.0,7.6
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Rhode Island,117.0,8.4
+2015,Parkinson's disease (G20-G21),Parkinson's disease,South Carolina,420.0,7.8
+2015,Parkinson's disease (G20-G21),Parkinson's disease,South Dakota,80.0,7.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Tennessee,604.0,8.4
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Texas,1983.0,8.5
+2015,Parkinson's disease (G20-G21),Parkinson's disease,United States,27972.0,7.7
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Utah,229.0,10.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Vermont,83.0,10.2
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Virginia,638.0,7.4
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Washington,654.0,8.7
+2015,Parkinson's disease (G20-G21),Parkinson's disease,West Virginia,163.0,6.7
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Wisconsin,600.0,8.3
+2015,Parkinson's disease (G20-G21),Parkinson's disease,Wyoming,42.0,6.8
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Alabama,331.0,6.0
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Alaska,24.0,4.6
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Arizona,253.0,3.1
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Arkansas,168.0,4.7
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,California,1752.0,4.2
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Colorado,346.0,6.6
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Connecticut,386.0,7.9
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Delaware,73.0,6.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,District of Columbia,35.0,5.6
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Florida,1026.0,3.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Georgia,450.0,4.8
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Hawaii,108.0,5.0
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Idaho,100.0,5.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Illinois,960.0,6.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Indiana,465.0,6.2
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Iowa,222.0,5.0
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Kansas,230.0,6.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Kentucky,329.0,6.6
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Louisiana,224.0,4.6
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Maine,102.0,5.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Maryland,382.0,5.7
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Massachusetts,560.0,6.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Michigan,539.0,4.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Minnesota,237.0,3.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Mississippi,205.0,6.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Missouri,552.0,7.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Montana,67.0,4.9
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Nebraska,146.0,6.2
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Nevada,105.0,3.7
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,New Hampshire,75.0,4.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,New Jersey,725.0,6.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,New Mexico,80.0,3.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,New York,1075.0,4.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,North Carolina,723.0,6.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,North Dakota,77.0,8.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Ohio,876.0,5.9
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Oklahoma,231.0,5.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Oregon,171.0,3.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Pennsylvania,1087.0,5.9
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Rhode Island,88.0,5.6
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,South Carolina,325.0,5.7
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,South Dakota,58.0,5.0
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Tennessee,556.0,7.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Texas,1388.0,5.7
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,United States,19803.0,5.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Utah,103.0,4.3
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Vermont,21.0,2.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Virginia,590.0,6.7
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Washington,590.0,7.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,West Virginia,159.0,6.4
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Wisconsin,407.0,5.5
+2015,Pneumonitis due to solids and liquids (J69),Pneumonitis due to solids and liquids,Wyoming,21.0,3.3
+2015,Septicemia (A40-A41),Septicemia,Alabama,1046.0,18.4
+2015,Septicemia (A40-A41),Septicemia,Alaska,37.0,7.4
+2015,Septicemia (A40-A41),Septicemia,Arizona,444.0,5.4
+2015,Septicemia (A40-A41),Septicemia,Arkansas,525.0,15.0
+2015,Septicemia (A40-A41),Septicemia,California,1447.0,3.5
+2015,Septicemia (A40-A41),Septicemia,Colorado,456.0,8.2
+2015,Septicemia (A40-A41),Septicemia,Connecticut,646.0,13.7
+2015,Septicemia (A40-A41),Septicemia,Delaware,145.0,12.2
+2015,Septicemia (A40-A41),Septicemia,District of Columbia,88.0,13.8
+2015,Septicemia (A40-A41),Septicemia,Florida,2368.0,8.2
+2015,Septicemia (A40-A41),Septicemia,Georgia,1526.0,15.2
+2015,Septicemia (A40-A41),Septicemia,Hawaii,123.0,6.6
+2015,Septicemia (A40-A41),Septicemia,Idaho,84.0,4.7
+2015,Septicemia (A40-A41),Septicemia,Illinois,1819.0,12.3
+2015,Septicemia (A40-A41),Septicemia,Indiana,1139.0,15.0
+2015,Septicemia (A40-A41),Septicemia,Iowa,252.0,6.3
+2015,Septicemia (A40-A41),Septicemia,Kansas,381.0,11.0
+2015,Septicemia (A40-A41),Septicemia,Kentucky,873.0,17.1
+2015,Septicemia (A40-A41),Septicemia,Louisiana,991.0,19.7
+2015,Septicemia (A40-A41),Septicemia,Maine,145.0,7.8
+2015,Septicemia (A40-A41),Septicemia,Maryland,913.0,13.5
+2015,Septicemia (A40-A41),Septicemia,Massachusetts,881.0,10.3
+2015,Septicemia (A40-A41),Septicemia,Michigan,1268.0,10.3
+2015,Septicemia (A40-A41),Septicemia,Minnesota,439.0,6.6
+2015,Septicemia (A40-A41),Septicemia,Mississippi,676.0,20.2
+2015,Septicemia (A40-A41),Septicemia,Missouri,856.0,11.6
+2015,Septicemia (A40-A41),Septicemia,Montana,112.0,8.7
+2015,Septicemia (A40-A41),Septicemia,Nebraska,158.0,7.0
+2015,Septicemia (A40-A41),Septicemia,Nevada,205.0,6.7
+2015,Septicemia (A40-A41),Septicemia,New Hampshire,119.0,7.0
+2015,Septicemia (A40-A41),Septicemia,New Jersey,1957.0,17.9
+2015,Septicemia (A40-A41),Septicemia,New Mexico,232.0,9.6
+2015,Septicemia (A40-A41),Septicemia,New York,2601.0,10.9
+2015,Septicemia (A40-A41),Septicemia,North Carolina,1557.0,13.6
+2015,Septicemia (A40-A41),Septicemia,North Dakota,81.0,9.4
+2015,Septicemia (A40-A41),Septicemia,Ohio,1957.0,13.6
+2015,Septicemia (A40-A41),Septicemia,Oklahoma,419.0,9.5
+2015,Septicemia (A40-A41),Septicemia,Oregon,227.0,4.6
+2015,Septicemia (A40-A41),Septicemia,Pennsylvania,2343.0,13.5
+2015,Septicemia (A40-A41),Septicemia,Rhode Island,143.0,10.4
+2015,Septicemia (A40-A41),Septicemia,South Carolina,854.0,14.9
+2015,Septicemia (A40-A41),Septicemia,South Dakota,120.0,11.1
+2015,Septicemia (A40-A41),Septicemia,Tennessee,924.0,12.1
+2015,Septicemia (A40-A41),Septicemia,Texas,4381.0,17.2
+2015,Septicemia (A40-A41),Septicemia,United States,40773.0,11.0
+2015,Septicemia (A40-A41),Septicemia,Utah,166.0,7.0
+2015,Septicemia (A40-A41),Septicemia,Vermont,50.0,5.9
+2015,Septicemia (A40-A41),Septicemia,Virginia,1187.0,13.0
+2015,Septicemia (A40-A41),Septicemia,Washington,501.0,6.3
+2015,Septicemia (A40-A41),Septicemia,West Virginia,348.0,13.9
+2015,Septicemia (A40-A41),Septicemia,Wisconsin,517.0,7.2
+2015,Septicemia (A40-A41),Septicemia,Wyoming,46.0,7.1
