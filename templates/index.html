@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>DiscoveryMap Home</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="container">
+            <div class="jumbotron text-center" style="width:100%;">
+                <h1>Public Health Discovery</h1>
+                <p>Becca, Jericho, Marc, and Ram</p>
+            </div>
+    </div>
+    <div class="container" align="center" style="position:relative; top:30p;">
+        <form action="/submit">
+            <select name="CoD" id="CoD">
+                <option value="Select">Select Cause of Death</option>
+                <option id = "All" value="AllDeaths">All Causes</option>
+                <option id = "CLRD" value="CLRD">Chronic Lower Respiratory Disease</option>
+                <option id = "Alz" value="Alz">Alzheimer's Disease</option>
+                <option id = "Cancer" value="Cancer">Cancer</option>
+                <option id= "Accident" value="Unintentional">Unintentional Injuries</option>
+                <option id= "Homicide" value="Homicide">Homicide</option>
+                <option id= "Stroke" value="Stroke">Stroke</option>
+                <option id= "Liver" value="Liver">Chronic Liver Disease and Cirrhosis</option>
+                <option id= "Diabetes" value="Diabetes">Diabetes</option>
+                <option id= "Heart" value="Heart">Diseases of the Heart</option>
+                <option id= "Hyper" value="Hyper">Essential Hypertension and Hypertensive Renal Disease</option>
+                <option id= "PneuFlu" value="Pneuflu">Influenza and Pneumonia</option>
+                <option id= "Suicide" value="Suicide">Suicide</option>
+                <option id= "Kidney" value="Kidney">Kidney Disease</option>
+                <option id= "Park" value="Park">Parkinson's Disease</option>
+                <option id= "Pneumon" value="Pneumon">Pneumonitis due to Solids and Liquids</option>
+                <option id= "Sept" value="Sept">Septicemia</option>
+            </select>
+            <br><br>
+            <!-- <select name="Comparison" id="Comparison">
+                <option id= "Select" value="Select">Select Comparison Factor</option>
+                <option id= "PCP" value="PCP">Total US General Practitioners</option>
+                <option id= "Cardio" value="Cardio">Total US Cardiovascular Disease Specialists</option>
+                <option id= "Onco" value="Onco">Total US Oncologists</option>
+                <option id= "ICU" value="ICU">Total US Critical Care Specialists</option>
+                <option id= "Psych" value="Psych">Total US Psychiatrists</option>
+                <option id= "Surgery" value="Surgery">Total US General Surgeons</option>
+                <option id= "Int" value="Int">Total US Internal Medicine Specialists</option>
+                <option id= "Uro" value="Uro">Total US Urologists</option>
+                <option id= "Neuro" value="Neuro">Total US Neurologists</option>
+                <option id= "Nephro" value="Nephro">Total US Nephrologists</option>
+                <option id= "Endo" value="Endo">Total US Endocrinology, Diabetes, and Metabolism Specialists</option>
+            </select> -->
+            <br><br>
+            <input type="submit" id="submitbutton" value="Create Map" onclick="assign(CoD);">
+        </form>
+    </div>
+    <br><br>
+    <br><br>
+    <div></div>
+    <div id="plot"></div>
+    <script src="static/data.js"></script>
+    <script src="static/plots.js"></script>
+    <br><br> 
+    <div id="plotb"></div>
+    <script src="static/datab.js"></script>
+    <script src="static/plotsb.js"></script>
+    <br><br>
+    <br><br>
+    <br><br>
+    <script type="text/javascript" src="static/logic.js"></script>
+
+</body>
+</html>
